@@ -1,0 +1,9 @@
+D:\BSS_Project\IAS\DLL\Constant\bin\Release\Constant.dll
+D:\BSS_Project\IAS\DLL\Constant\bin\Release\Constant.pdb
+D:\BSS_Project\IAS\DLL\Constant\obj\Release\Constant.dll
+D:\BSS_Project\IAS\DLL\Constant\obj\Release\Constant.pdb
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\Constant\bin\Release\Constant.dll
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\Constant\bin\Release\Constant.pdb
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\Constant\obj\Release\Constant.csproj.CoreCompileInputs.cache
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\Constant\obj\Release\Constant.dll
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\Constant\obj\Release\Constant.pdb

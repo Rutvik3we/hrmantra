@@ -1,0 +1,5 @@
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\ErrorHandler\bin\Release\ErrorHandler.dll
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\ErrorHandler\bin\Release\ErrorHandler.pdb
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\ErrorHandler\obj\Release\ErrorHandler.csproj.CoreCompileInputs.cache
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\ErrorHandler\obj\Release\ErrorHandler.dll
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\ErrorHandler\obj\Release\ErrorHandler.pdb

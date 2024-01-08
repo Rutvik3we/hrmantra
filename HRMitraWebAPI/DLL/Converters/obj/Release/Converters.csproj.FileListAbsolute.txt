@@ -1,0 +1,9 @@
+D:\ERP999\ERP999\ERP999\DLL\Converters\bin\Release\Converters.dll
+D:\ERP999\ERP999\ERP999\DLL\Converters\bin\Release\Converters.pdb
+D:\ERP999\ERP999\ERP999\DLL\Converters\obj\Release\Converters.dll
+D:\ERP999\ERP999\ERP999\DLL\Converters\obj\Release\Converters.pdb
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\Converters\bin\Release\Converters.dll
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\Converters\bin\Release\Converters.pdb
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\Converters\obj\Release\Converters.csproj.CoreCompileInputs.cache
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\Converters\obj\Release\Converters.dll
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\Converters\obj\Release\Converters.pdb

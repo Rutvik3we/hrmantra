@@ -1,0 +1,99 @@
+E:\BSS_Project\IAS\DLL\Constant\bin\Debug\Constant.dll
+E:\BSS_Project\IAS\DLL\Constant\bin\Debug\Constant.pdb
+E:\BSS_Project\IAS\DLL\Constant\obj\Debug\Constant.dll
+E:\BSS_Project\IAS\DLL\Constant\obj\Debug\Constant.pdb
+D:\BSS_Project\IAS\DLL\Constant\obj\Debug\Constant.dll
+D:\BSS_Project\IAS\DLL\Constant\obj\Debug\Constant.pdb
+C:\BSS_Projects\IAS\DLL\Constant\obj\Debug\Constant.dll
+C:\BSS_Projects\IAS\DLL\Constant\obj\Debug\Constant.pdb
+C:\Program Files (x86)\IAS\Bin\Constant.dll
+C:\Program Files (x86)\IAS\Bin\Constant.pdb
+E:\Code_Backup\IAS_Divya\IAS\DLL\Constant\obj\Debug\Constant.dll
+E:\Code_Backup\IAS_Divya\IAS\DLL\Constant\obj\Debug\Constant.pdb
+E:\Code_Backup\IAS_Divya\IAS\DLL\Constant\obj\Debug\Constant.csprojResolveAssemblyReference.cache
+E:\BSS_Project\IAS\DLL\Constant\obj\Debug\Constant.csprojResolveAssemblyReference.cache
+D:\BSS_Projects\IAS\DLL\Constant\obj\Debug\Constant.dll
+D:\BSS_Projects\IAS\DLL\Constant\obj\Debug\Constant.pdb
+F:\BSS_Projects\IAS\DLL\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+F:\BSS_Projects\IAS\DLL\Constant\obj\Debug\Constant.dll
+F:\BSS_Projects\IAS\DLL\Constant\obj\Debug\Constant.pdb
+D:\BSS_Projects\IAS\DLL\Constant\obj\Debug\Constant.csprojAssemblyReference.cache
+F:\BSS_Projects\IAS\DLL\Constant\obj\Debug\Constant.csprojAssemblyReference.cache
+C:\Program Files (x86)\RCD\Bin\Constant.dll
+C:\Program Files (x86)\RCD\Bin\Constant.pdb
+E:\BSS_Project\RCD_001_Nyra_Gandhidham\RCD\DLL\Constant\obj\Debug\Constant.dll
+E:\BSS_Project\RCD_001_Nyra_Gandhidham\RCD\DLL\Constant\obj\Debug\Constant.pdb
+E:\BSS_Project\RCD_002_IOCL_Jalandhar\RCD\DLL\Constant\obj\Debug\Constant.dll
+E:\BSS_Project\RCD_002_IOCL_Jalandhar\RCD\DLL\Constant\obj\Debug\Constant.pdb
+E:\BSS_Project\RCD_003_IOCL_GOOTY\RCD\DLL\Constant\obj\Debug\Constant.dll
+E:\BSS_Project\RCD_003_IOCL_GOOTY\RCD\DLL\Constant\obj\Debug\Constant.pdb
+E:\BSS_Project\RCD_003_IOCL_GOOTY\RCD\DLL\Constant\obj\Debug\Constant.csprojResolveAssemblyReference.cache
+F:\BSS_Project\RCD_003_IOCL_GOOTY\RCD\DLL\Constant\obj\Debug\Constant.csprojAssemblyReference.cache
+F:\BSS_Project\RCD_003_IOCL_GOOTY\RCD\DLL\Constant\obj\Debug\Constant.dll
+F:\BSS_Project\RCD_003_IOCL_GOOTY\RCD\DLL\Constant\obj\Debug\Constant.pdb
+E:\BSS_Projects\RCD_003_IOCL_GOOTY\RCD\DLL\Constant\obj\Debug\Constant.dll
+E:\BSS_Projects\RCD_003_IOCL_GOOTY\RCD\DLL\Constant\obj\Debug\Constant.pdb
+E:\BSS_Projects\RCD_003_IOCL_GOOTY\RCD\DLL\Constant\obj\Debug\Constant.csproj.AssemblyReference.cache
+E:\BSS_Projects\RCD_003_IOCL_GOOTY\RCD\DLL\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\BeSpokeERP\Bin\Constant.dll
+C:\Program Files (x86)\BeSpokeERP\Bin\Constant.pdb
+E:\BSS_Projects\ERP_001_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.AssemblyReference.cache
+E:\BSS_Projects\ERP_001_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+E:\BSS_Projects\ERP_001_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.dll
+E:\BSS_Projects\ERP_001_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.pdb
+D:\MISData\TEJAS\ERP_001_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csprojAssemblyReference.cache
+D:\MISData\TEJAS\ERP_001_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.dll
+D:\MISData\TEJAS\ERP_001_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.pdb
+D:\BSS_Projects\ERP_001_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.AssemblyReference.cache
+D:\BSS_Projects\ERP_001_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+D:\BSS_Projects\ERP_001_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.dll
+D:\BSS_Projects\ERP_001_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.pdb
+E:\BSS_Projects\ERP_002_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+E:\BSS_Projects\ERP_002_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.dll
+E:\BSS_Projects\ERP_002_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.pdb
+D:\BSS_Projects\ERP_002_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+D:\BSS_Projects\ERP_002_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.dll
+D:\BSS_Projects\ERP_002_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.pdb
+D:\BSS_Projects\ERP_002_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.AssemblyReference.cache
+E:\BSS_Projects\ERP_002_Avighna\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.AssemblyReference.cache
+\\bsplserver\BSPL Project\ERP_002_Avighna\1.Client-Web-Source\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.AssemblyReference.cache
+\\bsplserver\BSPL Project\ERP_002_Avighna\1.Client-Web-Source\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+\\bsplserver\BSPL Project\ERP_002_Avighna\1.Client-Web-Source\BeSpokeERP\DLL\Constant\obj\Debug\Constant.dll
+\\bsplserver\BSPL Project\ERP_002_Avighna\1.Client-Web-Source\BeSpokeERP\DLL\Constant\obj\Debug\Constant.pdb
+D:\BSS_Projects\ERP_006_Rollamo\1.Client-Web-Source\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+D:\BSS_Projects\ERP_006_Rollamo\1.Client-Web-Source\BeSpokeERP\DLL\Constant\obj\Debug\Constant.dll
+D:\BSS_Projects\ERP_006_Rollamo\1.Client-Web-Source\BeSpokeERP\DLL\Constant\obj\Debug\Constant.pdb
+D:\BSS_Projects\ERP_006_Rollamo\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+D:\BSS_Projects\ERP_006_Rollamo\BeSpokeERP\DLL\Constant\obj\Debug\Constant.dll
+D:\BSS_Projects\ERP_006_Rollamo\BeSpokeERP\DLL\Constant\obj\Debug\Constant.pdb
+E:\ZEEL\Project\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.AssemblyReference.cache
+E:\ZEEL\Project\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+E:\ZEEL\Project\BeSpokeERP\DLL\Constant\obj\Debug\Constant.dll
+E:\ZEEL\Project\BeSpokeERP\DLL\Constant\obj\Debug\Constant.pdb
+D:\BSS_Projects\ERP_006_Rollamo\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.AssemblyReference.cache
+D:\BSS_Project\ERP006_Rollamo\1.Client-web-Source\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.AssemblyReference.cache
+D:\BSS_Project\ERP006_Rollamo\1.Client-web-Source\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+D:\BSS_Project\ERP006_Rollamo\1.Client-web-Source\BeSpokeERP\DLL\Constant\obj\Debug\Constant.dll
+D:\BSS_Project\ERP006_Rollamo\1.Client-web-Source\BeSpokeERP\DLL\Constant\obj\Debug\Constant.pdb
+D:\BSS_Projects\ERP_006_Rollamo\4.WorkinProgress\Zeel\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.AssemblyReference.cache
+D:\BSS_Projects\ERP_006_Rollamo\4.WorkinProgress\Zeel\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+D:\BSS_Projects\ERP_006_Rollamo\4.WorkinProgress\Zeel\BeSpokeERP\DLL\Constant\obj\Debug\Constant.dll
+D:\BSS_Projects\ERP_006_Rollamo\4.WorkinProgress\Zeel\BeSpokeERP\DLL\Constant\obj\Debug\Constant.pdb
+D:\BSS_Projects\ERP_004_British_BioTech\4.WorkinProgress\Dhruvi\BeSpokeERP\WebAPI\ERPWebAPI\bin\Constant.dll
+D:\BSS_Projects\ERP_004_British_BioTech\4.WorkinProgress\Dhruvi\BeSpokeERP\WebAPI\ERPWebAPI\bin\Constant.pdb
+D:\BSS_Projects\ERP_004_British_BioTech\4.WorkinProgress\Dhruvi\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.AssemblyReference.cache
+D:\BSS_Projects\ERP_004_British_BioTech\4.WorkinProgress\Dhruvi\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+D:\BSS_Projects\ERP_004_British_BioTech\4.WorkinProgress\Dhruvi\BeSpokeERP\DLL\Constant\obj\Debug\Constant.dll
+D:\BSS_Projects\ERP_004_British_BioTech\4.WorkinProgress\Dhruvi\BeSpokeERP\DLL\Constant\obj\Debug\Constant.pdb
+D:\BSS_Projects\ERP_004_British_BioTech\1.Client-Web-Source\BeSpokeERP\WebAPI\ERPWebAPI\bin\Constant.dll
+D:\BSS_Projects\ERP_004_British_BioTech\1.Client-Web-Source\BeSpokeERP\WebAPI\ERPWebAPI\bin\Constant.pdb
+D:\BSS_Projects\ERP_004_British_BioTech\1.Client-Web-Source\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+D:\BSS_Projects\ERP_004_British_BioTech\1.Client-Web-Source\BeSpokeERP\DLL\Constant\obj\Debug\Constant.dll
+D:\BSS_Projects\ERP_004_British_BioTech\1.Client-Web-Source\BeSpokeERP\DLL\Constant\obj\Debug\Constant.pdb
+D:\BSS_Projects\ERP_004_British_BioTech\1.Client-Web-Source\BeSpokeERP\DLL\Constant\obj\Debug\Constant.csproj.AssemblyReference.cache
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\WebAPI\HRMitraWebAPI\bin\Constant.dll
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\WebAPI\HRMitraWebAPI\bin\Constant.pdb
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\Constant\obj\Debug\Constant.dll
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\Constant\obj\Debug\Constant.pdb
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\Constant\obj\Debug\Constant.csproj.AssemblyReference.cache

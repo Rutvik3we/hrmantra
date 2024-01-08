@@ -1,0 +1,6 @@
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\EncryptDecrypt\bin\Release\EncryptDecrypt.dll
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\EncryptDecrypt\bin\Release\EncryptDecrypt.pdb
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\EncryptDecrypt\obj\Release\EncryptDecrypt.csproj.CoreCompileInputs.cache
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\EncryptDecrypt\obj\Release\EncryptDecrypt.dll
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\EncryptDecrypt\obj\Release\EncryptDecrypt.pdb
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitraWebAPI\DLL\EncryptDecrypt\obj\Release\EncryptDecrypt.csproj.AssemblyReference.cache
